@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string>
-#include "SDL.h"
+#include "SDL/SDL.h"
 #include "SDL_mixer.h"
 
 class Sounds{

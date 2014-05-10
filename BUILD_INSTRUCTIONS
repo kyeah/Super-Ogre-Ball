@@ -1,4 +1,4 @@
-SUPER OGRE BALL (TEAM 3-PLUS)
+B1;2802;0cSUPER OGRE BALL (TEAM 3-PLUS)
 ======================================================
 Alyssa Sallean, Kevin Yeh, Patrick Grayson, Matt Navarifar
 
@@ -11,4 +11,4 @@ BUILDING
 
 DEPENDENCIES
 =================================
-sudo apt-get install libbullet-dev libsdl1.2-dev #sdl-mixer ogre ois libcegui-mk2-dev libboost-system-dev libboost-filesystem-dev
+sudo apt-get install libbullet-dev libsdl1.2-dev libsdl-mixer1.2-dev libsdl-net1.2-dev libogre-1.8-dev libois-dev libcegui-mk2-dev libboost-system-dev libboost-filesystem-dev

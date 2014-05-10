@@ -2,11 +2,11 @@ level Roundabout {
       start {
             skydome Examples/CloudySky 5 8 4000
             camera {
-                   pos 0 1500 1200
+                   pos 0 1400 1200
                    lookAt 0 0 -7000
             }
             player1 {
-                     pos 0 1000 -100
+                     pos 0 900 -100
                      rot 0 0 0
             }
 	    Sound{
